@@ -1,0 +1,25 @@
+{
+    "name": "chat-app",
+    "version": "1.0.0",
+    "description": "A chat applicaiton",
+    "main": "server.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "fullstack developers",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3",
+        "jsonwebtoken": "^8.3.0",
+        "libphonenumber-js": "^1.4.0",
+        "lodash": "^4.17.10",
+        "mongoose": "^5.2.5",
+        "morgan": "^1.9.0",
+        "nodemon": "^1.18.3",
+        "password-validator": "^4.1.1",
+        "path": "^0.12.7",
+        "validator": "^10.5.0"
+    }
+}
